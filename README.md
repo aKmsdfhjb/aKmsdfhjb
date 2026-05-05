@@ -1,6 +1,6 @@
 # Aashutosh Kuikel
 
-**AI/ML · Full-Stack · Cybersecurity · Data Science · Freelancer**  
+**AI/ML · Full-Stack Dev · Web & App Development · Automation · Cybersecurity · Data Science**  
 Kathmandu, Nepal 🇳🇵
 
 Building intelligent products — from ML pipelines and AI automation to full-stack web apps and secure systems.
@@ -139,9 +139,25 @@ I'm a self-driven developer working across AI, full-stack development, cybersecu
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aKmsdfhjb&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=aKmsdfhjb&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aKmsdfhjb&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=aKmsdfhjb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=aKmsdfhjb&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aKmsdfhjb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=aKmsdfhjb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aKmsdfhjb&theme=tokyo-night&hide_border=true&area=true)
+
+## 🔝 Top Contributed Repos
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=aKmsdfhjb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+## ✍️ Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
