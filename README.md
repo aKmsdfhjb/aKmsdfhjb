@@ -41,7 +41,7 @@
 
 ## 👤 About Me
 
-```python
+
 class AashutoshKuikel:
     def __init__(self):
         self.name        = "Aashutosh Kuikel"
