@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20&amp;height=220&amp;section=header&amp;text=Aashutosh%20Kuikel&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI/ML%20·%20Full-Stack%20Dev%20·%20Web%20&%20App%20Development&amp;descAlignY=56&amp;descAlign=50" width="100%"/>
+</div>
+
 # Aashutosh Kuikel
 
 **AI/ML · Full-Stack Dev · Web & App Development · Automation · Cybersecurity · Data Science**  
@@ -171,5 +175,9 @@ I'm a self-driven developer working across AI, full-stack development, cybersecu
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuikelaashutosh@gmail.com)
 
 ---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20&amp;height=100&amp;section=footer" width="100%"/>
+</div>
 
 *Open to freelance projects in AI/ML, cybersecurity, web development, and automation.*
