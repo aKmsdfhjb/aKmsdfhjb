@@ -424,4 +424,4 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
-```
+
