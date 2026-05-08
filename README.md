@@ -1,3 +1,4 @@
+```md
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=240&section=header&text=Aashutosh%20Kuikel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Automation%20%C2%B7%20Cybersecurity%20%C2%B7%20Data%20Science&descAlignY=54&descAlign=50&descSize=18" width="100%"/>
 
@@ -62,43 +63,107 @@ me.say_hi()
 
 ## 🚀 What I Do
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI / Machine Learning</h3>
-      <ul>
-        <li>Computer Vision & NLP pipelines</li>
-        <li>Deep Learning with TensorFlow & PyTorch</li>
-        <li>LLM fine-tuning (LoRA, RLHF, Multimodal)</li>
-        <li>RAG systems & AI agent architectures</li>
-        <li>Prompt engineering & vibe coding</li>
-      </ul>
-      <h3>🔐 Cybersecurity</h3>
-      <ul>
-        <li>Ethical hacking & penetration testing</li>
-        <li>Network security & threat modeling</li>
-        <li>Secure coding & AI security</li>
-        <li>CTF challenges & vulnerability research</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Development</h3>
-      <ul>
-        <li>React, Next.js, React Native apps</li>
-        <li>Node.js, FastAPI, Flask backends</li>
-        <li>REST APIs & microservices</li>
-        <li>Mobile-first, responsive UI/UX</li>
-      </ul>
-      <h3>⚡ AI Automation & Data Science</h3>
-      <ul>
-        <li>n8n workflows & AI agents</li>
-        <li>LangChain & MCP pipelines</li>
-        <li>Data analysis & visualization</li>
-        <li>Predictive modeling & statistics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<details open>
+<summary><b>🤖 &nbsp; AI / Machine Learning</b> &nbsp; <kbd>Core Focus</kbd></summary>
+
+<br/>
+
+> *Designing intelligent systems that learn, reason, and adapt.*
+
+| 🎯 Specialization | 🛠️ Stack & Tools |
+|---|---|
+| 🧠 **Deep Learning** | `TensorFlow` · `PyTorch` · `Keras` |
+| 👁️ **Computer Vision** | `OpenCV` · `YOLO` · `CNNs` |
+| 💬 **Natural Language Processing** | `Transformers` · `HuggingFace` · `spaCy` |
+| 🔬 **LLM Fine-Tuning** | `LoRA` · `RLHF` · `Multimodal Models` |
+| 🔍 **RAG & AI Agents** | `LangChain` · `Vector DBs` · `MCP` |
+
+</details>
+
+<details>
+<summary><b>🌐 &nbsp; Full-Stack Development</b> &nbsp; <kbd>Web & Mobile</kbd></summary>
+
+<br/>
+
+> *Crafting fast, scalable, and beautiful web & mobile apps.*
+
+| 🎯 Specialization | 🛠️ Stack & Tools |
+|---|---|
+| ⚛️ **Frontend** | `React` · `Next.js` · `TailwindCSS` |
+| 📱 **Mobile** | `React Native` · `Expo` |
+| 🔧 **Backend** | `Node.js` · `FastAPI` · `Flask` · `Express` |
+| 🔌 **APIs & Architecture** | `REST` · `GraphQL` · `Microservices` |
+| 🎨 **UI/UX** | `Responsive Design` · `Mobile-First` · `Accessibility` |
+
+</details>
+
+<details>
+<summary><b>⚡ &nbsp; AI Automation & Workflows</b> &nbsp; <kbd>Productivity</kbd></summary>
+
+<br/>
+
+> *Automating the boring so humans can do the brilliant.*
+
+| 🎯 Specialization | 🛠️ Stack & Tools |
+|---|---|
+| 🔄 **Workflow Automation** | `n8n` · `Zapier` · `Make` |
+| 🤖 **AI Agents** | `LangChain` · `AutoGPT` · `CrewAI` |
+| 🧩 **Integrations** | `MCP` · `OpenAI API` · `Webhooks` |
+| 📨 **Smart Pipelines** | `Email` · `CRM` · `Data Sync` |
+| ✨ **Vibe Coding** | `Prompt Engineering` · `Cursor` · `Copilot` |
+
+</details>
+
+<details>
+<summary><b>🔐 &nbsp; Cybersecurity</b> &nbsp; <kbd>Defensive & Offensive</kbd></summary>
+
+<br/>
+
+> *Breaking things ethically — to make them unbreakable.*
+
+| 🎯 Specialization | 🛠️ Stack & Tools |
+|---|---|
+| 🎭 **Ethical Hacking** | `Kali Linux` · `Metasploit` · `Nmap` |
+| 🌐 **Network Security** | `Wireshark` · `Burp Suite` · `Firewalls` |
+| 🛡️ **Secure Coding** | `OWASP Top 10` · `Code Audits` |
+| 🤖 **AI Security** | `Prompt Injection` · `Model Hardening` |
+| 🚩 **CTF & Research** | `Pwn` · `Web Exploits` · `Reverse Engineering` |
+
+</details>
+
+<details>
+<summary><b>📊 &nbsp; Data Science & Analytics</b> &nbsp; <kbd>Insights</kbd></summary>
+
+<br/>
+
+> *Turning raw data into decisions that drive impact.*
+
+| 🎯 Specialization | 🛠️ Stack & Tools |
+|---|---|
+| 📈 **Data Analysis** | `Pandas` · `NumPy` · `SQL` |
+| 📊 **Visualization** | `Matplotlib` · `Plotly` · `Seaborn` |
+| 🔮 **Predictive Modeling** | `scikit-learn` · `XGBoost` · `Time Series` |
+| 🧮 **Statistics** | `Hypothesis Testing` · `A/B Testing` |
+| 🗄️ **Big Data** | `Data Pipelines` · `ETL` · `Cloud Warehouses` |
+
+</details>
+
+<details>
+<summary><b>☁️ &nbsp; DevOps & Cloud</b> &nbsp; <kbd>Infrastructure</kbd></summary>
+
+<br/>
+
+> *Building systems that scale, deploy, and never sleep.*
+
+| 🎯 Specialization | 🛠️ Stack & Tools |
+|---|---|
+| 🐳 **Containerization** | `Docker` · `Docker Compose` |
+| 🔁 **CI/CD** | `Jenkins` · `GitHub Actions` |
+| ☁️ **Cloud Platforms** | `AWS` · `Firebase` · `Supabase` |
+| 🏗️ **System Design** | `APIs` · `Caching` · `CDNs` · `Databases` |
+| 🐧 **Linux & Servers** | `Bash` · `Nginx` · `Deployment` |
+
+</details>
 
 ---
 
@@ -214,8 +279,8 @@ me.say_hi()
 <summary><b>✅ Completed Certifications</b></summary>
 <br>
 
-| # | Issuer | Certification | Badge |
-|---|--------|--------------|-------|
+| # | Issuer | Certification | Status |
+|---|--------|--------------|--------|
 | 1 | 🟠 Kaggle | Intro to Machine Learning | ✅ |
 | 2 | 🟠 Kaggle | Python | ✅ |
 | 3 | 🟠 Kaggle | Intro to Programming | ✅ |
@@ -359,3 +424,4 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
+```
