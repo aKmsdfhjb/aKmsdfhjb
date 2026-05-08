@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for all branches and tags
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,5 +33,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "docs: auto-generate profile readme"
+            git pull --rebase origin main
             git push
           fi
