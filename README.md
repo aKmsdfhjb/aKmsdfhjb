@@ -1,4 +1,4 @@
-
+```md
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=240&section=header&text=Aashutosh%20Kuikel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Automation%20%C2%B7%20Cybersecurity%20%C2%B7%20Data%20Science&descAlignY=54&descAlign=50&descSize=18" width="100%"/>
 
@@ -322,7 +322,7 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aKmsdfhjb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=aKmsdfhjb&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=aKmsdfhjb&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br/>
 
