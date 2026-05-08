@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=240&section=header&text=Aashutosh%20Kuikel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Full-Stack%20Dev%20%C2%B7%20Automation%20%C2%B7%20Cybersecurity%20%C2%B7%20Data%20Science&descAlignY=54&descAlign=50&descSize=18" width="100%"/>
 
@@ -41,7 +40,7 @@
 
 ## 👤 About Me
 
-
+```python
 class AashutoshKuikel:
     def __init__(self):
         self.name        = "Aashutosh Kuikel"
@@ -360,4 +359,3 @@ me.say_hi()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
-```
