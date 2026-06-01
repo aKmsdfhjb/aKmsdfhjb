@@ -273,6 +273,18 @@ me.say_hi()
 
 ---
 
+
+---
+
+## 📂 My Projects
+
+<!-- START_SECTION:my-projects -->
+<!-- This content will be automatically generated and overwritten by GitHub Actions -->
+<!-- END_SECTION:my-projects -->
+
+
+
+
 ## 📜 Certifications & Learning
 
 <details>
@@ -316,6 +328,8 @@ me.say_hi()
 </details>
 
 ---
+
+
 
 ## 📊 GitHub Stats
 
