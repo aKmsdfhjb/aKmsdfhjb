@@ -11,7 +11,6 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    # This block forces GitHub to give the automated runner write permissions
     permissions:
       contents: write
     steps:
@@ -51,7 +50,8 @@ jobs:
                   continue
               
               repos = res.json()
-              valid_repos = [r for r in repos if not r['fork'] and not r['archived'] and r['description']]
+              # FIXED: Removed the strict r['description'] requirement so repositories without descriptions show up
+              valid_repos = [r for r in repos if not r['fork'] and not r['archived']]
               
               if valid_repos:
                   content += f"### 🏢 {target.upper()}\n\n"
@@ -63,7 +63,7 @@ jobs:
                   for repo in valid_repos:
                       name = repo['name']
                       html_url = repo['html_url']
-                      desc = repo['description'] or "No description provided."
+                      desc = repo['description'] if repo['description'] else "No description provided."
                       lang = repo['language'] or "Misc"
                       stars = repo['stargazers_count']
                       
@@ -83,8 +83,6 @@ jobs:
           python update_projects.py
 
       - name: Commit and Push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
