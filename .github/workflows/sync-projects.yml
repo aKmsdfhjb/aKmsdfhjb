@@ -36,6 +36,7 @@ jobs:
           import requests
           import re
 
+          # Add any other organization handles to this list down the road
           TARGETS = ["aKmsdfhjb"] 
           headers = {"Authorization": f"token {os.environ['GH_TOKEN']}"} if os.environ.get('GH_TOKEN') else {}
 
@@ -43,23 +44,34 @@ jobs:
           
           for target in TARGETS:
               org_res = requests.get(f"https://api.github.com/orgs/{target}", headers=headers)
-              url = f"https://api.github.com/orgs/{target}/repos?per_page=100&sort=updated" if org_res.status_code == 200 else f"https://api.github.com/users/{target}/repos?per_page=100&sort=updated"
+              is_org = org_res.status_code == 200
+              
+              url = f"https://api.github.com/orgs/{target}/repos?per_page=100&sort=updated" if is_org else f"https://api.github.com/users/{target}/repos?per_page=100&sort=updated"
               
               res = requests.get(url, headers=headers)
               if res.status_code != 200:
                   continue
               
               repos = res.json()
-              # FIXED: Removed the strict r['description'] requirement so repositories without descriptions show up
-              valid_repos = [r for r in repos if not r['fork'] and not r['archived']]
+              # Filter out forks, archived repos, and your main profile repository itself
+              valid_repos = [
+                  r for r in repos 
+                  if not r['fork'] 
+                  and not r['archived'] 
+                  and r['name'].lower() != target.lower()
+              ]
               
               if valid_repos:
-                  content += f"### 🏢 {target.upper()}\n\n"
+                  # Primary Node: Organization / Profile Heading
+                  node_type = "Organization" if is_org else "Profile Repositories"
+                  content += f"### 🏢 {target} ({node_type})\n\n"
                   content += "| 🚀 Repository | 📝 Description | ⚡ Tech Stack | ⭐ Stars |\n"
                   content += "|---|---|---|---|\n"
                   
+                  # Sort sub-nodes by star count
                   valid_repos = sorted(valid_repos, key=lambda x: x['stargazers_count'], reverse=True)[:5]
                   
+                  # Sub-nodes
                   for repo in valid_repos:
                       name = repo['name']
                       html_url = repo['html_url']
