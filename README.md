@@ -280,12 +280,11 @@ me.say_hi()
 
 <!-- START_SECTION:my-projects -->
 
-### 🏢 AKMSDFHJB
+### 🏢 aKmsdfhjb (Profile Repositories)
 
 | 🚀 Repository | 📝 Description | ⚡ Tech Stack | ⭐ Stars |
 |---|---|---|---|
 | **[Ai-quiz-and-notes](https://github.com/aKmsdfhjb/Ai-quiz-and-notes)** | No description provided. | `HTML` | `★ 1` |
-| **[aKmsdfhjb](https://github.com/aKmsdfhjb/aKmsdfhjb)** | No description provided. | `Misc` | `★ 0` |
 
 <!-- END_SECTION:my-projects -->
 
