@@ -503,13 +503,11 @@ Currently building and experimenting with:
 </details>
 
 ---
-
 # 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aKmsdfhjb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%"/>
-
 <img src="https://streak-stats.demolab.com?user=aKmsdfhjb&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br/><br/>
@@ -605,7 +603,7 @@ Currently building and experimenting with:
 
 ### 💼 Open to AI/ML opportunities, collaborations & interesting projects
 
-**AI/ML is my main focus.
+**AI/ML is my main focus.  
 Everything else helps me build, deploy, automate, and secure what I create.**
 
 </div>
@@ -618,5 +616,41 @@ Everything else helps me build, deploy, automate, and secure what I create.**
 
 **Thanks for visiting my profile!**
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=240&section=header&text=Aashutosh%20Kuikel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Deep%20Learning%20%C2%B7%20LLMs%20%C2%B7%20Computer%20Vision&descAlignY=54&descAlign=50&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aashutosh-kuikel-59a573385/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/_of.ak">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://discord.gg/rT8jEu9A9e">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/aashutosh.kuikel.95236">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white"/>
+</a>
+<a href="https://www.reddit.com/user/HungryAd5718/">
+  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square&logo=Reddit&logoColor=white"/>
+</a>
+<a href="mailto:kuikelaashutosh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍%20Location-Kathmandu%2C%20Nepal-blue?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💼%20Focus-AI%20%2F%20ML-success?style=flat-square"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=aKmsdfhjb&style=flat-square&color=blueviolet&label=Profile%20Views"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent+AI+Products+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Computer+Vision+%26+NLP+%F0%9F%91%81%EF%B8%8F;LLMs+%26+Generative+AI+%F0%9F%A6%99;RAG+%26+AI+Agent+Systems+%F0%9F%94%8D;Fine-Tuning+%26+AI+Infrastructure+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
+
 </div>
-```
