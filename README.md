@@ -503,17 +503,18 @@ Currently building and experimenting with:
 </details>
 
 ---
+
 # 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aKmsdfhjb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=aKmsdfhjb&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak Stats" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aKmsdfhjb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=aKmsdfhjb&theme=tokyonight&hide_border=true" width="49%"/>
+<br/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aKmsdfhjb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" width="50%"/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aKmsdfhjb&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" alt="Top Languages" />
 </div>
 
 ---
@@ -521,9 +522,7 @@ Currently building and experimenting with:
 # 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aKmsdfhjb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=aKmsdfhjb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -531,22 +530,8 @@ Currently building and experimenting with:
 # 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aKmsdfhjb&theme=tokyo-night&hide_border=true&area=true&custom_title=Aashutosh's%20Contribution%20Graph" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aKmsdfhjb&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
-
----
-
-# 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=aKmsdfhjb&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%"/>
-
-</div>
-
----
 
 # ✍️ Dev Quote of the Day
 
