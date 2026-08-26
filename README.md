@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=240&section=header&text=Aashutosh%20Kuikel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Deep%20Learning%20%C2%B7%20LLMs%20%C2%B7%20Computer%20Vision&descAlignY=54&descAlign=50&descSize=18" width="100%"/>
@@ -38,7 +38,7 @@
 
 </div>
 
----
+--
 
 ## 👤 About Me
 
