@@ -610,36 +610,10 @@ Everything else helps me build, deploy, automate, and secure what I create.**
 
 ---
 
+<!-- Dedicated Closing Banner Block -->
 <div align="center">
 
-### 🚀 Build. Learn. Train. Ship.
-
-**Thanks for visiting my profile!**
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=240&section=header&text=Aashutosh%20Kuikel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Deep%20Learning%20%C2%B7%20LLMs%20%C2%B7%20Computer%20Vision&descAlignY=54&descAlign=50&descSize=18" width="100%"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aashutosh-kuikel-59a573385/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/_of.ak">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://discord.gg/rT8jEu9A9e">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/aashutosh.kuikel.95236">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white"/>
-</a>
-<a href="https://www.reddit.com/user/HungryAd5718/">
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square&logo=Reddit&logoColor=white"/>
-</a>
-<a href="mailto:kuikelaashutosh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Let's%20build%20something%20intelligent%20together.&descAlignY=62&descAlign=50&descSize=16" width="100%"/>
 
 <br/><br/>
 
@@ -651,6 +625,6 @@ Everything else helps me build, deploy, automate, and secure what I create.**
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=650&lines=Building+Intelligent+AI+Products+%F0%9F%A4%96;Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Computer+Vision+%26+NLP+%F0%9F%91%81%EF%B8%8F;LLMs+%26+Generative+AI+%F0%9F%A6%99;RAG+%26+AI+Agent+Systems+%F0%9F%94%8D;Fine-Tuning+%26+AI+Infrastructure+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Build.+Learn.+Train.+Ship.+%F0%9F%99%8C;Driven+by+AI%2FML+%26+Deep+Learning+%F0%9F%A7%A0;Always+Open+to+Collaborations+%F0%9F%A4%9D" alt="Footer Typing SVG"/>
 
 </div>
