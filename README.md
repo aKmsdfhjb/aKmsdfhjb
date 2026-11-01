@@ -3,30 +3,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=240&section=header&text=Aashutosh%20Kuikel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Deep%20Learning%20%C2%B7%20LLMs%20%C2%B7%20Computer%20Vision&descAlignY=54&descAlign=50&descSize=18" width="100%"/>
 
-<table>
-  <tr>
-    <td width="190" align="center" valign="middle">
-      <pre>
-      .-""""-.
-     / .--.   \
-    | |    |  |
-    | |    |  |
-    |  \__/   |
-     \       /
-      '-----'
-      /|   |\\
-     /_|___|_\\
-      </pre>
-      <sub>AK / TERMINAL PORTRAIT</sub>
-    </td>
-    <td valign="middle">
-      <h2>Building intelligent products through practical engineering.</h2>
-      <p>I'm Aashutosh Kuikel — a Python developer focused on machine learning, deep learning, NLP, computer vision and full-stack applications.</p>
-      <p><code>RESEARCH</code> → <code>BUILD</code> → <code>TEST</code> → <code>SHIP</code></p>
-      <p><sub>KATHMANDU, NEPAL · AI / ML · PYTHON · FULL-STACK</sub></p>
-    </td>
-  </tr>
-</table>
+<h2>Building intelligent products through practical engineering.</h2>
+
+<p>I'm Aashutosh Kuikel — a Python developer focused on machine learning, deep learning, NLP, computer vision and full-stack applications.</p>
+
+<p><code>RESEARCH</code> → <code>BUILD</code> → <code>TEST</code> → <code>SHIP</code></p>
+<p><sub>KATHMANDU, NEPAL · AI / ML · PYTHON · FULL-STACK</sub></p>
 
 <hr/>
 
