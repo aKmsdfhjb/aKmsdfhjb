@@ -209,27 +209,7 @@ me.say_hi()
 
 <br/>
 
-```text
-LLMs
- ↓
-Prompt Engineering
- ↓
-Embeddings
- ↓
-Vector Databases
- ↓
-RAG
- ↓
-Tool Calling
- ↓
-AI Agents
- ↓
-MCP
- ↓
-Fine-Tuning
- ↓
-Production AI
-```
+**LLMs → Prompt Engineering → Embeddings → Vector Databases → RAG → Tool Calling → AI Agents → MCP → Fine-Tuning → Production AI**
 
 ### Currently Exploring
 
