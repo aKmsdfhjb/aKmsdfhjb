@@ -22,6 +22,8 @@ REPOS=(
 command -v gh >/dev/null || { echo "Install GitHub CLI (gh) first."; exit 1; }
 gh auth status >/dev/null || { echo "Authenticate with: gh auth login"; exit 1; }
 
+GH_USER="$(gh api user --jq .login)"
+GH_ID="$(gh api user --jq .id)"
 WORKDIR="$(mktemp -d)"
 trap 'rm -rf "$WORKDIR"' EXIT
 
@@ -41,8 +43,8 @@ for REPO in "${REPOS[@]}"; do
   if git -C "$WORKDIR/$REPO-wiki" diff --cached --quiet; then
     echo "  No wiki changes."
   else
-    git -C "$WORKDIR/$REPO-wiki" config user.name "Aashutosh Kuikel"
-    git -C "$WORKDIR/$REPO-wiki" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git -C "$WORKDIR/$REPO-wiki" config user.name "$GH_USER"
+    git -C "$WORKDIR/$REPO-wiki" config user.email "$GH_ID+$GH_USER@users.noreply.github.com"
     git -C "$WORKDIR/$REPO-wiki" commit -m "Publish project wiki pages"
     git -C "$WORKDIR/$REPO-wiki" push
   fi
