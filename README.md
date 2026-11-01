@@ -112,19 +112,18 @@ me.say_hi()
 
 <sub>SELECTED WORK / 2026</sub>
 
-| INDEX | PROJECT | FOCUS | STATUS |
+| INDEX | PROJECT | FOCUS | DOCUMENTATION / STATUS |
 |:--:|---|---|---|
-| 01 | [Doodle Recognition](https://github.com/aKmsdfhjb/Doodle) · [Live demo](https://aKmsdfhjb.github.io/Doodle/) | CNN · Computer Vision | Published |
-| 02 | [AI Short Course](https://github.com/aKmsdfhjb/Ai-quiz-and-notes) · [Live app](https://aKmsdfhjb.github.io/Ai-quiz-and-notes/) | Study Tools · JavaScript | Published |
-| 03 | [Sentiment Analysis](https://github.com/aKmsdfhjb/Sentiment-Analysis-Model-Comparison) · [Project page](https://aKmsdfhjb.github.io/Sentiment-Analysis-Model-Comparison/) | NLP · Model Evaluation | Published |
-| 04 | [Wedding Invitation](https://github.com/aKmsdfhjb/Wedding_invite) · [Live site](https://aKmsdfhjb.github.io/Wedding_invite/) | Frontend · Interaction | Published |
-| 05 | [Smart Parking](https://github.com/aKmsdfhjb/Smart-parking-solution) · [Live app](https://aKmsdfhjb.github.io/Smart-parking-solution/) | React · Firebase · Maps | Published |
-| 06 | [KMC Knowledge Assistant](https://github.com/aKmsdfhjb/Chatbot) | Python · TF-IDF · Flask | Pages setup pending |
-| 07 | [Review Ratings Classifier](https://github.com/aKmsdfhjb/REVIEW_RATINGS_CLASSIFIER) | NLP · Scikit-learn | Pages setup pending |
-| 08 | [Chest X-ray CNN](https://github.com/aKmsdfhjb/Pneumonia-COVID-Detection-CNN) | Deep Learning · Research | Research prototype |
-| 09 | [Caesar Cipher](https://github.com/aKmsdfhjb/Caesar-Cipher) · [RPG Generator](https://github.com/aKmsdfhjb/python-rpg_character-generator) · [Poem PIN Extractor](https://github.com/aKmsdfhjb/poem-pin-extractor) | Python · Interactive Demos | Pages setup pending |
-| 10 | [Nayan Portfolio](https://github.com/aKmsdfhjb/Portfoilo) · [Live site](https://aKmsdfhjb.github.io/Portfoilo/) | Client Portfolio · React | Published |
-
+| 01 | [Doodle Recognition](https://github.com/aKmsdfhjb/Doodle) · [Live](https://aKmsdfhjb.github.io/Doodle/) · [Wiki](https://github.com/aKmsdfhjb/Doodle/tree/main/docs/wiki) | CNN · Computer Vision | Published |
+| 02 | [AI Short Course](https://github.com/aKmsdfhjb/Ai-quiz-and-notes) · [Live](https://aKmsdfhjb.github.io/Ai-quiz-and-notes/) · [Wiki](https://github.com/aKmsdfhjb/Ai-quiz-and-notes/tree/main/docs/wiki) | Study Tools · JavaScript | Published |
+| 03 | [Sentiment Analysis](https://github.com/aKmsdfhjb/Sentiment-Analysis-Model-Comparison) · [Project page](https://aKmsdfhjb.github.io/Sentiment-Analysis-Model-Comparison/) · [Wiki](https://github.com/aKmsdfhjb/Sentiment-Analysis-Model-Comparison/tree/main/docs/wiki) | NLP · Model Evaluation | Published project page |
+| 04 | [Wedding Invitation](https://github.com/aKmsdfhjb/Wedding_invite) · [Live](https://aKmsdfhjb.github.io/Wedding_invite/) · [Wiki](https://github.com/aKmsdfhjb/Wedding_invite/tree/main/docs/wiki) | Frontend · Interaction | Published |
+| 05 | [Smart Parking](https://github.com/aKmsdfhjb/Smart-parking-solution) · [Live](https://aKmsdfhjb.github.io/Smart-parking-solution/) · [Wiki](https://github.com/aKmsdfhjb/Smart-parking-solution/tree/main/docs/wiki) | React · Firebase · Maps | Published frontend |
+| 06 | [KMC Knowledge Assistant](https://github.com/aKmsdfhjb/Chatbot) · [Wiki](https://github.com/aKmsdfhjb/Chatbot/tree/main/docs/wiki) | Python · TF-IDF · Flask | Enable Pages once |
+| 07 | [Review Ratings Classifier](https://github.com/aKmsdfhjb/REVIEW_RATINGS_CLASSIFIER) · [Wiki](https://github.com/aKmsdfhjb/REVIEW_RATINGS_CLASSIFIER/tree/main/docs/wiki) | NLP · Scikit-learn | Enable Pages once |
+| 08 | [Chest X-ray CNN](https://github.com/aKmsdfhjb/Pneumonia-COVID-Detection-CNN) · [Wiki](https://github.com/aKmsdfhjb/Pneumonia-COVID-Detection-CNN/tree/main/docs/wiki) | Deep Learning · Research | Research prototype |
+| 09 | [Caesar Cipher](https://github.com/aKmsdfhjb/Caesar-Cipher) · [RPG Generator](https://github.com/aKmsdfhjb/python-rpg_character-generator) · [Poem PIN Extractor](https://github.com/aKmsdfhjb/poem-pin-extractor) | Python · Interactive Demos | Enable Pages once |
+| 10 | [Nayan Portfolio](https://github.com/aKmsdfhjb/Portfoilo) · [Live](https://aKmsdfhjb.github.io/Portfoilo/) | Client Portfolio · React | Published |
 <sub>LIVE STATUS IS BASED ON COMPLETED GITHUB ACTIONS DEPLOYMENTS; API-DEPENDENT PROJECTS REQUIRE A SEPARATELY HOSTED BACKEND.</sub>
 
 ---
