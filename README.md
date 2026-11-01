@@ -114,16 +114,16 @@ me.say_hi()
 
 | INDEX | PROJECT | FOCUS | WIKI | STATUS |
 |:--:|---|---|---|---|
-| 01 | [Doodle Recognition](https://github.com/aKmsdfhjb/Doodle) · [Live](https://aKmsdfhjb.github.io/Doodle/) | CNN · Computer Vision | [Wiki source](https://github.com/aKmsdfhjb/Doodle/tree/main/docs/wiki) |
-| 02 | [AI Short Course](https://github.com/aKmsdfhjb/Ai-quiz-and-notes) · [Live](https://aKmsdfhjb.github.io/Ai-quiz-and-notes/) | Study Tools · JavaScript | [Wiki source](https://github.com/aKmsdfhjb/Ai-quiz-and-notes/tree/main/docs/wiki) |
-| 03 | [Sentiment Analysis](https://github.com/aKmsdfhjb/Sentiment-Analysis-Model-Comparison) · [Project page](https://aKmsdfhjb.github.io/Sentiment-Analysis-Model-Comparison/) | NLP · Model Evaluation | [Wiki source](https://github.com/aKmsdfhjb/Sentiment-Analysis-Model-Comparison/tree/main/docs/wiki) |
-| 04 | [Wedding Invitation](https://github.com/aKmsdfhjb/Wedding_invite) · [Live](https://aKmsdfhjb.github.io/Wedding_invite/) | Frontend · Interaction | [Wiki source](https://github.com/aKmsdfhjb/Wedding_invite/tree/main/docs/wiki) |
-| 05 | [Smart Parking](https://github.com/aKmsdfhjb/Smart-parking-solution) · [Live](https://aKmsdfhjb.github.io/Smart-parking-solution/) | React · Firebase · Maps | [Wiki source](https://github.com/aKmsdfhjb/Smart-parking-solution/tree/main/docs/wiki) |
-| 06 | [KMC Knowledge Assistant](https://github.com/aKmsdfhjb/Chatbot) | Python · TF-IDF · Flask | [Wiki source](https://github.com/aKmsdfhjb/Chatbot/tree/main/docs/wiki) |
-| 07 | [Review Ratings Classifier](https://github.com/aKmsdfhjb/REVIEW_RATINGS_CLASSIFIER) | NLP · Scikit-learn | [Wiki source](https://github.com/aKmsdfhjb/REVIEW_RATINGS_CLASSIFIER/tree/main/docs/wiki) |
-| 08 | [Chest X-ray CNN](https://github.com/aKmsdfhjb/Pneumonia-COVID-Detection-CNN) | Deep Learning · Research | [Wiki source](https://github.com/aKmsdfhjb/Pneumonia-COVID-Detection-CNN/tree/main/docs/wiki) |
+| 01 | [Doodle Recognition](https://github.com/aKmsdfhjb/Doodle) · [Live](https://aKmsdfhjb.github.io/Doodle/) | CNN · Computer Vision | [Wiki source](https://github.com/aKmsdfhjb/Doodle/tree/main/docs/wiki) | Published |
+| 02 | [AI Short Course](https://github.com/aKmsdfhjb/Ai-quiz-and-notes) · [Live](https://aKmsdfhjb.github.io/Ai-quiz-and-notes/) | Study Tools · JavaScript | [Wiki source](https://github.com/aKmsdfhjb/Ai-quiz-and-notes/tree/main/docs/wiki) | Published |
+| 03 | [Sentiment Analysis](https://github.com/aKmsdfhjb/Sentiment-Analysis-Model-Comparison) · [Project page](https://aKmsdfhjb.github.io/Sentiment-Analysis-Model-Comparison/) | NLP · Model Evaluation | [Wiki source](https://github.com/aKmsdfhjb/Sentiment-Analysis-Model-Comparison/tree/main/docs/wiki) | Published project page |
+| 04 | [Wedding Invitation](https://github.com/aKmsdfhjb/Wedding_invite) · [Live](https://aKmsdfhjb.github.io/Wedding_invite/) | Frontend · Interaction | [Wiki source](https://github.com/aKmsdfhjb/Wedding_invite/tree/main/docs/wiki) | Published |
+| 05 | [Smart Parking](https://github.com/aKmsdfhjb/Smart-parking-solution) · [Live](https://aKmsdfhjb.github.io/Smart-parking-solution/) | React · Firebase · Maps | [Wiki source](https://github.com/aKmsdfhjb/Smart-parking-solution/tree/main/docs/wiki) | Published frontend |
+| 06 | [KMC Knowledge Assistant](https://github.com/aKmsdfhjb/Chatbot) | Python · TF-IDF · Flask | [Wiki source](https://github.com/aKmsdfhjb/Chatbot/tree/main/docs/wiki) | Enable Pages once |
+| 07 | [Review Ratings Classifier](https://github.com/aKmsdfhjb/REVIEW_RATINGS_CLASSIFIER) | NLP · Scikit-learn | [Wiki source](https://github.com/aKmsdfhjb/REVIEW_RATINGS_CLASSIFIER/tree/main/docs/wiki) | Enable Pages once |
+| 08 | [Chest X-ray CNN](https://github.com/aKmsdfhjb/Pneumonia-COVID-Detection-CNN) | Deep Learning · Research | [Wiki source](https://github.com/aKmsdfhjb/Pneumonia-COVID-Detection-CNN/tree/main/docs/wiki) | Prototype · Pages setup pending |
 | 09 | [Caesar Cipher](https://github.com/aKmsdfhjb/Caesar-Cipher) · [RPG Generator](https://github.com/aKmsdfhjb/python-rpg_character-generator) · [Poem PIN Extractor](https://github.com/aKmsdfhjb/poem-pin-extractor) | Python · Interactive Demos | [Wiki pages](https://github.com/aKmsdfhjb/Caesar-Cipher/tree/main/docs/wiki) | Enable Pages once |
-| 10 | [Nayan Portfolio](https://github.com/aKmsdfhjb/Portfoilo) · [Live](https://aKmsdfhjb.github.io/Portfoilo/) | Client Portfolio · React | [Wiki source](https://github.com/aKmsdfhjb/Portfoilo/tree/main/docs/wiki) |
+| 10 | [Nayan Portfolio](https://github.com/aKmsdfhjb/Portfoilo) · [Live](https://aKmsdfhjb.github.io/Portfoilo/) | Client Portfolio · React | [Wiki source](https://github.com/aKmsdfhjb/Portfoilo/tree/main/docs/wiki) | Published |
 <sub>LIVE STATUS IS BASED ON COMPLETED GITHUB ACTIONS DEPLOYMENTS; API-DEPENDENT PROJECTS REQUIRE A SEPARATELY HOSTED BACKEND.</sub>
 
 
