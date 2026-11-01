@@ -126,6 +126,8 @@ me.say_hi()
 | 10 | [Nayan Portfolio](https://github.com/aKmsdfhjb/Portfoilo) · [Live](https://aKmsdfhjb.github.io/Portfoilo/) | Client Portfolio · React | [Wiki source](https://github.com/aKmsdfhjb/Portfoilo/tree/main/docs/wiki) | [Brief](https://github.com/aKmsdfhjb/Portfoilo/blob/main/docs/video/production-brief.md) | Published |
 <sub>LIVE STATUS IS BASED ON COMPLETED GITHUB ACTIONS DEPLOYMENTS; API-DEPENDENT PROJECTS REQUIRE A SEPARATELY HOSTED BACKEND.</sub>
 
+[Video production index](docs/VIDEO_PRODUCTION.md) · [Native Wiki publishing guide](docs/WIKI_PUBLISHING.md)
+
 ---
 
 # 🧠 AI / MACHINE LEARNING
