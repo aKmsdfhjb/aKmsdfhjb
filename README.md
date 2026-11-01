@@ -126,6 +126,26 @@ me.say_hi()
 
 ---
 
+## PROJECT INDEX
+
+<sub>SELECTED WORK / 2026</sub>
+
+| INDEX | PROJECT | FOCUS | STATUS |
+|:--:|---|---|---|
+| 01 | [Doodle Recognition](https://github.com/aKmsdfhjb/Doodle) · [Live demo](https://aKmsdfhjb.github.io/Doodle/) | CNN · Computer Vision | Published |
+| 02 | [AI Short Course](https://github.com/aKmsdfhjb/Ai-quiz-and-notes) · [Live app](https://aKmsdfhjb.github.io/Ai-quiz-and-notes/) | Study Tools · JavaScript | Published |
+| 03 | [Sentiment Analysis](https://github.com/aKmsdfhjb/Sentiment-Analysis-Model-Comparison) · [Project page](https://aKmsdfhjb.github.io/Sentiment-Analysis-Model-Comparison/) | NLP · Model Evaluation | Published |
+| 04 | [Wedding Invitation](https://github.com/aKmsdfhjb/Wedding_invite) · [Live site](https://aKmsdfhjb.github.io/Wedding_invite/) | Frontend · Interaction | Published |
+| 05 | [Smart Parking](https://github.com/aKmsdfhjb/Smart-parking-solution) | React · Firebase · Maps | Build validation |
+| 06 | [KMC Knowledge Assistant](https://github.com/aKmsdfhjb/Chatbot) | Python · TF-IDF · Flask | Pages setup pending |
+| 07 | [Review Ratings Classifier](https://github.com/aKmsdfhjb/REVIEW_RATINGS_CLASSIFIER) | NLP · Scikit-learn | Pages setup pending |
+| 08 | [Chest X-ray CNN](https://github.com/aKmsdfhjb/Pneumonia-COVID-Detection-CNN) | Deep Learning · Research | Research prototype |
+| 09 | [Caesar Cipher](https://github.com/aKmsdfhjb/Caesar-Cipher) · [RPG Generator](https://github.com/aKmsdfhjb/python-rpg_character-generator) · [Poem PIN Extractor](https://github.com/aKmsdfhjb/poem-pin-extractor) | Python · Interactive Demos | Pages setup pending |
+
+<sub>LIVE STATUS IS BASED ON COMPLETED GITHUB ACTIONS DEPLOYMENTS; API-DEPENDENT PROJECTS REQUIRE A SEPARATELY HOSTED BACKEND.</sub>
+
+---
+
 # 🧠 AI / MACHINE LEARNING
 
 > **My primary field. Everything else supports my ability to build and ship AI systems.**
